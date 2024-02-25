@@ -1,11 +1,11 @@
-#Biblioteca de Livros 
+# Biblioteca de Livros 
 Uma aplicação simples em Java para gerenciar uma biblioteca de livros.
 
-##Instalação
+## Instalação
 Certifique-se de ter o Java instalado em sua máquina.
 Faça o download ou clone este repositório.
 
-##Recursos
+## Recursos
 - [x] Cadastro de novos livros com título, autor, gênero e data de publicação.
 - [x] Remoção de livros existentes na biblioteca.
 - [x] Listagem de todos os livros cadastrados.
